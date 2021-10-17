@@ -1,5 +1,6 @@
 ### Hi there  I am Adamya Kanswa 👋
-
+- 🔭 I’m currently working on Machine Learning Projects
+- 🌱 I’m currently learning Machone Learning and Deep Learning
 <!--
 **adamyak/adamyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
