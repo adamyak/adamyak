@@ -1,7 +1,7 @@
 ### Hi there  I am Adamya Kanswa 👋
-- 🔭 I’m currently working on Machine Learning Projects
-- 🌱 I’m currently learning Machone Learning and Deep Learning
-- 📫 How to reach me: LinkedIn | Email
+- 🔭 I’m currently working in TCS
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/adamya-kanswa-337785166/) | [Email](arshiadamk@gmail.com)
 <!--
 **adamyak/adamyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
