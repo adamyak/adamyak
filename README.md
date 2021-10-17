@@ -1,6 +1,7 @@
 ### Hi there  I am Adamya Kanswa 👋
 - 🔭 I’m currently working in TCS
 - 🌱 I’m currently learning Machine Learning and Deep Learning
+- 💬 Ask me about Python, Stats, ML
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/adamya-kanswa-337785166/) | [Email](arshiadamk@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamyak&layout=compact)](https://github.com/adamyak/github-readme-stats)
