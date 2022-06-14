@@ -4,7 +4,7 @@
 - 💬 Ask me about Python, Stats, ML
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/adamya-kanswa/) | [Email](arshiadamk@gmail.com)
 
-[!@adamyak's 2021 GitHub Skyline](https://skyline.github.com/adamyak/2021)
+[My 2021 GitHub Skyline](https://skyline.github.com/adamyak/2021)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamyak&layout=compact)](https://github.com/adamyak/github-readme-stats)
 
