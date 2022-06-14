@@ -1,6 +1,6 @@
 ### Hi there  I am Adamya Kanswa 👋
 - 🔭 I’m currently working in TCS
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m exploring Machine Learning and Deep Learning
 - 💬 Ask me about Python, Stats, ML
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/adamya-kanswa/) | [Email](arshiadamk@gmail.com)
 
