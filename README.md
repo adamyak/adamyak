@@ -1,6 +1,6 @@
 ### Hi there  I am Adamya Kanswa 👋
-- 🔭 I’m currently working in PwC India
-- 🌱 I’m exploring Machine Learning and Deep Learning
+- 🔭 I’m currently working in Publicis Sapient
+- 🌱 I’m exploring and learning Machine Learning and Deep Learning, Gen AI
 - 💬 Ask me about Python, Stats, ML
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/adamya-kanswa/) | [Email](arshiadamk@gmail.com)
 - ☁️ Google cloud : [Profile](https://www.cloudskillsboost.google/public_profiles/9e191084-130d-4465-b7ee-411b9a8b60bb)
